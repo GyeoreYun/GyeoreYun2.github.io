@@ -7,7 +7,10 @@ version: 2
 
 # Personal info
 name: Gyeore Yun
-title: Ph.D Candidate, Department of Computer Science and Engineering @ POSTECH, Republic of Korea.
+title: |
+Ph.D Candidate,
+Department of Computer Science and Engineering @ POSTECH,
+Republic of Korea.
 email: ykre0827@postech.ac.kr
 website: GyeoreYun.github.io
 
@@ -49,10 +52,15 @@ about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Ph.D. Candidate
+  
   Interaction Laboratory (POINT Lab.)
+  
   Department of Computer Science and Engineering
+  
   Pohang University of Science and Technology (POSTECH)
+  
   Advisor: Prof. Seungmoon Choi
+
 
   I am a PhD Candidate at Interaction laboratory (Interaction Lab.), POSTECH, South Korea.
   I am interested in haptics, human-computer interaction (HCI), and VR/AR.
