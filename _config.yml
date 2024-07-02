@@ -46,15 +46,17 @@ orcid_username: 0000-0002-4332-596X
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Ph.D. Student
+  Ph.D. Candidate
   Interaction Laboratory (POINT Lab.)
   Department of Computer Science and Engineering
   Pohang University of Science and Technology (POSTECH)
   Advisor: Prof. Seungmoon Choi
 
-
+  I am a graduate student at Interaction laboratory (Interaction Lab.), POSTECH, South Korea.
+  I am interested in haptics, human-computer interaction (HCI), and VR/AR.
+  Above all, I focus on sound-to-haptic conversion algorithms and novel haptic rendering techniques.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
