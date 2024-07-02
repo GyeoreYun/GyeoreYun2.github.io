@@ -32,7 +32,7 @@ orcid_username: 0000-0002-4332-596X
 # Additional icon links
 additional_links:
 - title: google scholar
-  icon: fa-google-scholar
+  icon: fas fa-google-scholar
   url: https://scholar.google.com/citations?user=Cjd4eVUAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -54,11 +54,11 @@ about_content: | # this will include new lines to allow paragraphs
   Pohang University of Science and Technology (POSTECH)
   Advisor: Prof. Seungmoon Choi
 
-  I am a graduate student at Interaction laboratory (Interaction Lab.), POSTECH, South Korea.
+  I am a PhD Candidate at Interaction laboratory (Interaction Lab.), POSTECH, South Korea.
   I am interested in haptics, human-computer interaction (HCI), and VR/AR.
   Above all, I focus on sound-to-haptic conversion algorithms and novel haptic rendering techniques.
 content:
-  - title: Projects # Title for the section
+  - title: Selected Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
