@@ -25,14 +25,14 @@ instagram_username: ykre0827
 linkedin_username: GyeoreYun
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: gry4855
+youtube_username: @gry4855
 # googleplus_username: +jekyll
 orcid_username: 0000-0002-4332-596X
 
 # Additional icon links
 additional_links:
 - title: google scholar
-  icon: fas fa-google-scholar
+  icon: fa-google-scholar
   url: https://scholar.google.com/citations?user=Cjd4eVUAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
