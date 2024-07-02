@@ -30,10 +30,10 @@ youtube_username: @gry4855
 orcid_username: 0000-0002-4332-596X
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: google scholar
+  icon: fas fa-google-scholar
+  url: https://scholar.google.com/citations?user=Cjd4eVUAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
